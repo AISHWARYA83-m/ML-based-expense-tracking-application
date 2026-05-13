@@ -44,3 +44,14 @@ Future Improvements
 
  Author
 Aishwarya
+
+## Project Screenshots
+
+### Dashboard Output
+![Output](out 1.png)
+
+### Another Output
+![Output2](out 2.png)
+
+### Code Screenshot
+![Code](1.png)
