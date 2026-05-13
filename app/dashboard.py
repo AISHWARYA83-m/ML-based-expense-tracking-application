@@ -114,4 +114,4 @@ st.download_button(
 
 # Footer
 st.markdown("---")
-st.caption("🚀 Built by You | Data Science Project")
+st.caption("🚀 Built by Aishwarya | Data Science Project")
